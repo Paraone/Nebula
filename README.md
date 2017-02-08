@@ -4,10 +4,10 @@ A 2D space shooter for Android
 
 screenshots
 	
-![](./screenshots/nebula04ss.png)
+![](./screenshots/nebula04ss.PNG)
 
-![](./screenshots/nebula05ss.png)
+![](./screenshots/nebula05ss.PNG)
 
-![](./screenshots/nebula06ss.png)
+![](./screenshots/nebula06ss.PNG)
 
-![](./screenshots/nebula03ss.png)
+![](./screenshots/nebula03ss.PNG)
